@@ -1,0 +1,731 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+.banner {
+  background-image: -webkit-linear-gradient( -18deg, #e1d2c3 0%, #b29e81 100%);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1519.5px;
+  height: 1000px;
+  z-index: 309;
+}
+.logo {
+  position: absolute;
+  width: 150px;
+  left: 100px;
+  top: 30px;
+  z-index: 310;
+}
+.Shape5 {
+  position: absolute;
+  left: 106px;
+  top: 31px;
+  width: 1413px;
+  z-index: 311;
+}
+.girl {
+  position: absolute;
+  left: 619px;
+  top: 0px;
+  width: 900px;
+  height: 1001px;
+  z-index: 314;
+}
+.fb_ytb_tw_ins {
+  font-size: 26px;
+  font-family: "Cormorant Garamond";
+  line-height: 1.667;
+  text-align: right;
+  position: absolute;
+  left: 1360px;
+  width: 100px;
+  height: 500px;
+  top: 389.465px;
+  z-index: 317;
+}
+.fb_ytb_tw_ins1 {
+  font-size: 26px;
+  font-family: "Cormorant Garamond"; 
+  line-height: 1.667;
+  text-align: right;
+  position: absolute;
+  left: 1360px;
+  width: 100px;
+  height: 500px;
+  top: 430px;
+  z-index: 317;
+}
+/* .Itsyourshinetime {
+  font-size: 80px;
+  font-family: "Cormorant Garamond";
+  color: #333333;
+  font-style: italic;
+  line-height: 1;
+  font-weight: bold;
+  text-align: left;
+  position: absolute;
+  left: 440px;
+  top: 340px;
+  width: 410px;
+  height: 68.6px;
+  z-index: 321;
+} */
+.Itsyourshinetime {
+  position: absolute;
+  left: 283px;
+  top: 437px;
+  width: 575px;
+  height: 122px;
+  z-index: 321;
+}
+.Spring2017 {
+  font-size: 24.339px;
+  font-family: "Fira Sans";
+  color: #696969;
+  line-height: 1.333;
+  text-align: left;
+  position: absolute;
+  left: 290.857px;
+  top: 365.826px;
+  z-index: 322;
+}
+.discover_now {
+  font-size: 16px;
+  font-family: "Fira Sans";
+  color: #ffffff;
+  background-color: #333333;
+  padding: 10px 20px;
+  font-weight: bold; 
+  line-height: 1.5;
+  position: absolute;
+  left: 282.844px;
+  top: 655px;
+  z-index: 326;
+}
+.header {
+	margin-top: 1001px;
+}
+.mn .mn1 li {
+  border-right: 1px solid #efefef;
+}
+.menu {
+	display: flex;
+  list-style: none;
+  font-family: Cormorant Garamond;
+}
+.menu1 {
+	display: flex;
+  list-style: none;
+  font-family: Fira Sans;
+  border-bottom: 1px solid #efefef;
+}
+.mn {
+	margin: 0px 0px 0px 250px;
+  text-decoration: none;
+  font-size: 20px;
+  color: black;
+}
+.mn1 {
+	margin: 0px 0px 0px 260px;
+  text-decoration: none;
+  font-size: 14px;
+  color: #ababab;
+}
+.mn2 {
+  margin: 0px 0px 0px 300px;
+  text-decoration: none;
+  font-size: 14px;
+  color: #ababab;
+}
+.mn3 {
+  margin: 0px 0px 0px 380px;
+  text-decoration: none;
+  font-size: 14px;
+  color: #ababab;
+}
+.Itstarted_ {
+	font-size: 19px;
+	text-align: center;
+	font-family: Cormorant Garamond;
+	font-weight: bold;
+	color: #333333;
+  line-height: 30px;
+  width: 434.582px;
+  height: 46.283px;
+  margin: auto;
+  margin-top: 120px;
+}
+.content {
+  width: 1130px;
+  height: 3409px;
+}
+.content1 {
+  width: 1519.5px;
+  height: 1130px;
+}
+.mau1 {
+  position: absolute;
+  float: left;
+  left: 100px;
+  top: 1411px;
+  width: 299px;
+  z-index: 166;
+}
+.Gold_Leaf_Ring {
+  font-size: 20px;
+  font-family: "Fira Sans";
+  color: #333333;
+  line-height: 1.5;
+  text-align: center;
+  position: absolute;
+  left: 158.925px;
+  top: 1699.67px;
+  width: 172px;
+  height: 24px;
+  z-index: 167;
+}
+._179 {
+  font-size: 22px;
+  color: #d6ba8d;
+  text-align: center;
+  position: absolute;
+  left: 222.844px;
+  top: 1740.5px;
+  z-index: 168;
+}
+.mau2 {
+  position: absolute;
+  left: 450px;
+  top: 1411px;
+  width: 637px;
+  z-index: 169;
+}
+.sale_up_to {
+  font-size: 13px;
+  font-family: "Fira Sans";
+  color: #333333;
+  text-align: center;
+  position: absolute;
+  left: 921px;
+  top: 1503.469px;
+  width: 62.868px;
+  height: 9.875px;
+  z-index: 170;
+}
+._70 {
+  font-size: 77px;
+  font-family: "Cormorant Garamond";
+  color: #333333;
+  font-weight: bold;
+  text-align: center;
+  position: absolute;
+  left: 902.473px;
+  top: 1442.469px;
+  z-index: 171;
+}
+.Select_Gold_Clearance {
+  font-size: 17px;
+  font-family: "Cormorant Garamond";
+  color: #696969;
+  font-weight: bold;
+  text-align: center;
+  position: absolute;
+  left: 880.473px;
+  top: 1604px;
+  z-index: 172;
+}
+.Shop_Now {
+  font-size: 11px;
+  font-family: "Fira Sans";
+  color: #696969;
+  font-weight: bold;
+  text-align: center;
+  position: absolute;
+  left: 929px;
+  top: 1693px;
+  z-index: 173;
+}
+.mau3 {
+  position: absolute;
+  left: 1128px;
+  top: 1411px;
+  float: right;
+  width: 299px;
+  z-index: 174;
+}
+.New_Collection {
+  font-size: 10px;
+  font-family: "Fira Sans";
+  color: #333333;
+  text-align: left;
+  position: absolute;
+  left: 1174px;
+  top: 1660px;
+  width: 100px;
+  z-index: 175;
+}
+.Leaf_Ring {
+  font-size: 57px;
+  font-family: "Cormorant Garamond";
+  color: #d6ba8d;
+  font-weight: bold;
+  text-align: center;
+  position: absolute;
+  left: 1169px;
+  top: 1631px;
+  width: 220px;
+  z-index: 176;
+}
+.mau4 {
+  position: absolute;
+  float: left;
+  left: 100px;
+  top: 1857px;
+  width: 299px;
+  z-index: 177;
+}
+.mau5 {
+  position: absolute;
+  float: left;
+  left: 450px;
+  top: 1857px;
+  width: 299px;
+  z-index: 178;
+}
+.Rose_Gold_Necklaces {
+  font-size: 23px;
+  font-family: "Fira Sans";
+  color: #333333;
+  text-align: center;
+  position: absolute;
+  left: 495px;
+  top: 2143px;
+  z-index: 179;
+}
+.__179 {
+  font-size: 22px;
+  color: #d6ba8d;
+  text-align: center;
+  position: absolute;
+  left: 566px;
+  top: 2182px;
+  z-index: 180;
+}
+.mau6 {
+  position: absolute;
+  float: left;
+  left: 791px;
+  top: 1857px;
+  width: 636px;
+  z-index: 181;
+}
+.Princess_ {
+  font-size: 40px;
+  font-family: "Cormorant Garamond";
+  color: #333333;
+  font-weight: bold;
+  text-align: left;
+  position: absolute;
+  left: 830px;
+  top: 1905px;
+  width: 259px;
+  height: 87px;
+  z-index: 182;
+}
+.Rose_ {
+  font-size: 12px;
+  font-family: "Fira Sans";
+  color: #696969;
+  text-align: left;
+  position: absolute;
+  left: 834px;
+  top: 2048px;
+  width: 159px;
+  z-index: 183;
+}
+.Featured_items {
+  font-size: 56px;
+  font-family: "Cormorant Garamond";
+  color: #333333;
+  font-weight: bold;
+  text-align: left;
+  position: absolute;
+  left: 217px;
+  top: 2320px;
+  z-index: 184;
+}
+.view_more {
+  font-size: 14px;
+  font-family: "Fira Sans";
+  color: #333333;
+  font-weight: bold;
+  line-height: 1.714;
+  position: absolute;
+  left: 1250px;
+  top: 2398px;
+  width: 75px;
+  z-index: 185;
+}
+.content2
+{
+  width: 1132px;
+  height: 900px;
+  float: left;
+  margin-top: 150px;
+  margin-left: 220px;
+}
+.sp {
+  width: 250px;
+  padding-right: 30px;
+  padding-bottom: 90px;
+}
+.Kubusbowl_Small {
+  font-size: 14px;
+  font-family: "Fira Sans";
+  color: #333333;
+  text-align: center;
+  position: absolute;
+  left: 292px;
+  top: 2814px;
+  z-index: 186;
+}
+._19 {
+  font-size: 18px;
+  color: #d6ba8d;
+  text-align: center;
+  position: absolute;
+  left: 323px;
+  top: 2833px;
+  z-index: 187;
+}
+.Divine_Footstool {
+  font-size: 14px;
+  font-family: "Fira Sans";
+  color: #333333;
+  text-align: center;
+  position: absolute;
+  left: 578px;
+  top: 2814px;
+  z-index: 188;
+}
+._179_3 {
+  font-size: 18px;
+  color: #d6ba8d;
+  text-align: center;
+  position: absolute;
+  left: 604px;
+  top: 2833px;
+  z-index: 189;
+}
+.Cache_Pendant_Lamp {
+  font-size: 14px;
+  font-family: "Fira Sans";
+  color: #333333;
+  text-align: center;
+  position: absolute;
+  left: 850px;
+  top: 2814px;
+  z-index: 190;
+}
+._179_4 {
+  font-size: 18px;
+  color: #d6ba8d;
+  text-align: center;
+  position: absolute;
+  left: 888px;
+  top: 2833px;
+  z-index: 191;
+}
+.RIO_Chair {
+  font-size: 14px;
+  font-family: "Fira Sans";
+  color: #333333;
+  text-align: center;
+  position: absolute;
+  left: 1167px;
+  top: 2814px;
+  z-index: 192;
+}
+._179_5 {
+  font-size: 18px;
+  color: #d6ba8d;
+  text-align: center;
+  position: absolute;
+  left: 1167px;
+  top: 2833px;
+  z-index: 193;
+}
+.Cache_Pendant_Lamp1 {
+  font-size: 14px;
+  font-family: "Fira Sans";
+  color: #333333;
+  line-height: 2.571;
+  text-align: center;
+  position: absolute;
+  left: 285px;
+  top: 3195px;
+  z-index: 194;
+}
+._179_6 {
+  font-size: 18px;
+  color: #d6ba8d;
+  text-align: center;
+  position: absolute;
+  left: 323px;
+  top: 3224px;
+  z-index: 195;
+}
+.Prismatic_table {
+  font-size: 14px;
+  font-family: "Fira Sans";
+  color: #333333;
+  line-height: 2.571;
+  text-align: center;
+  position: absolute;
+  left: 583px;
+  top: 3195px;
+  z-index: 196;
+}
+._69 {
+  font-size: 18px;
+  color: #d6ba8d;
+  text-align: center;
+  position: absolute;
+  left: 617px;
+  top: 3224px;
+  z-index: 197
+}
+.CobraT_hermo_Cup {
+  font-size: 14px;
+  font-family: "Fira Sans";
+  color: #333333;
+  line-height: 2.571;
+  text-align: center;
+  position: absolute;
+  left: 858px;
+  top: 3195px;
+  z-index: 198;
+}
+._179_7 {
+  font-size: 18px;
+  color: #d6ba8d;
+  text-align: center;
+  position: absolute;
+  left: 888px;
+  top: 3224px;
+  z-index: 199;
+}
+.Montana_Collection {
+  font-size: 14px;
+  font-family: "Fira Sans";
+  color: #333333;
+  line-height: 2.571;
+  text-align: center;
+  position: absolute;
+  left: 1140px;
+  top: 3195px;
+  z-index: 200;
+}
+._179_8 {
+  font-size: 18px;
+  color: #d6ba8d;
+  text-align: center;
+  position: absolute;
+  left: 1171px;
+  top: 3224px;
+  z-index: 201;
+}
+.Blog {
+  width: 1519.5px;
+  height: 820px;
+  margin-top: 1050px;
+  background-color: #faf9f9;
+  position: absolute;
+  z-index: 202;
+}
+._blog {
+  font-size: 50px;
+  position: absolute;
+  text-align: center;
+  color: #333333;
+  font-family: "Cormorant Garamond";
+  font-weight: bold;
+  left: 633.875px;
+  top: -85px;
+  z-index: 203;
+}
+.nenblog {
+  width: 345px;
+  padding-left: 220px;
+  margin-top: 100px;
+  position: absolute;
+  z-index: 204;
+}
+.maublog {
+  position: absolute;
+  padding-top: 100px;
+  width: 345px;
+  padding-left: 171px;
+  left: 50px;
+  z-index: 205;
+}
+.July_14th_2016 {
+  font-size: 14px;
+  font-family: "Fira Sans";
+  color: #cccccc;
+  text-align: left;
+  position: absolute;
+  left: 269px;
+  top: 316px;
+  z-index: 206;
+}
+._8_Things {
+  font-size: 24px;
+  font-family: "Cormorant Garamond";
+  color: #333333;
+  font-weight: bold;
+  text-align: left;
+  position: absolute;
+  left: 271px;
+  top: 345px;
+  width: 255px;
+  padding-bottom: 50px;
+  border-bottom: 1px solid #eeeeee;
+  z-index: 207;
+}
+.nenblog1 {
+  width: 345px;
+  margin-left: 615px;
+  margin-top: 100px;
+  position: absolute;
+  z-index: 210;
+}
+.maublog1 {
+  position: absolute;
+  padding-top: 100px;
+  width: 345px;
+  margin-left: 566px;
+  left: 50px;
+  z-index: 211;
+}
+.July_14th_20161 {
+  font-size: 14px;
+  font-family: "Fira Sans";
+  color: #cccccc;
+  text-align: left;
+  position: absolute;
+  left: 664px;
+  top: 316px;
+  z-index: 212;
+}
+.How_I {
+  font-size: 24px;
+  font-family: "Cormorant Garamond";
+  color: #333333;
+  font-weight: bold;
+  text-align: left;
+  position: absolute;
+  left: 664px;
+  top: 345px;
+  width: 268px;
+  padding-bottom: 50px;
+  border-bottom: 1px solid #eeeeee;
+  z-index: 213;
+}
+.nenblog2 {
+  width: 345px;
+  margin-left: 1010px;
+  margin-top: 100px;
+  position: absolute;
+  z-index: 216;
+}
+.maublog2 {
+  position: absolute;
+  padding-top: 100px;
+  width: 345px;
+  margin-left: 960px;
+  left: 50px;
+  z-index: 217;
+}
+.July_14th_20162 {
+  font-size: 14px;
+  font-family: "Fira Sans";
+  color: #cccccc;
+  text-align: left;
+  position: absolute;
+  left: 1059px;
+  top: 316px;
+  z-index: 218;
+}
+.Wait_ {
+  font-size: 24px;
+  font-family: "Cormorant Garamond";
+  color: #333333;
+  font-weight: bold;
+  text-align: left;
+  position: absolute;
+  left: 1060px;
+  top: 345px;
+  width: 261px;
+  padding-bottom: 50px;
+  border-bottom: 1px solid #eeeeee;
+  z-index: 219;
+}
+.nenNho {
+  position: absolute;
+  margin-top: 500px;
+  margin-left: 800px;
+}
+.content3 {
+  width: 1300px;
+  height: 157px;
+  margin-left: 236px;
+  margin-top: 1934px;
+}
+.lg {
+  padding-right: 65px;
+}
+.footer {
+  background-color: #333333;
+  position: absolute;
+  left: 0px;
+  top: 4448px;
+  width: 1519.5px;
+  height: 420px;
+  z-index: 3;
+}
+._logo {
+  margin-top: 50px;
+  margin-left: 217px;
+}
+.Text {
+  display: flex;
+  font-size: 14px;
+  font-family: "Fira Sans";
+  color:  #ababab;
+  font-weight: bold;
+  margin-top: -34px;
+  padding-left: 400px;
+  margin-left: 213px;
+  width: 720px;
+  height: 40px;
+  padding-bottom: 100px;
+  border-bottom: 1px solid #2b2b2b;
+}  
+.txt {
+  margin-right: 30px;
+}
+.subscribe {
+  margin-left: 200px;
+  padding: 6px 20px 20px 20px;
+  border: 1px solid #696969;
+}
+.contact {
+  font-size: 14px;
+  font-family: "Fira Sans";
+  width: 350px;
+  color: #5e5e5e;
+  margin-left: 214px;
+}
